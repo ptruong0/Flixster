@@ -22,13 +22,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://github.com/ptruong0/Flixster/blob/master/flixster_part2.gif" width=250><br>
+<img src="https://github.com/ptruong0/Flixster/blob/master/flixster_walkthrough_part2.gif" width=250><br>
 
 ### Notes
 
 Describe any challenges encountered while building the app.
-I could not get the YoutubePlayerView to work on my emulator, even though Google Play was properly installed on the emulator.
-However, I know that it works because I tested it on my phone, but I can't include that on the walkthrough gif.
 I also tried to do the rounded corners stretch story, but it messed up the entire layout and I don't know why.
 
 ## Open-source libraries used
